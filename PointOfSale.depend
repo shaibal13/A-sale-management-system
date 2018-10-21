@@ -1,0 +1,377 @@
+# depslib dependency file v1.0
+1449833730 source:c:\users\arnab\desktop\pointofsale\administrator.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	"Administrator.h"
+
+1449833268 c:\users\arnab\desktop\pointofsale\administrator.h
+	<iostream>
+	<fstream>
+	"UnsortedType.h"
+	"Transaction.h"
+	"Administrator.cpp"
+
+1449833730 c:\users\arnab\desktop\pointofsale\administrator.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	"Administrator.h"
+
+1449833719 source:c:\users\arnab\desktop\pointofsale\itemtype.cpp
+	"ItemType.h"
+	<iostream>
+	<fstream>
+
+1449833719 c:\users\arnab\desktop\pointofsale\itemtype.h
+	<iostream>
+	<fstream>
+
+1449842157 source:c:\users\arnab\desktop\pointofsale\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	"ItemType.h"
+	"UnsortedType.h"
+	"Administrator.h"
+	"Salesman.h"
+
+1449840234 source:c:\users\arnab\desktop\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449833268 c:\users\arnab\desktop\pointofsale\transaction.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Transaction.cpp"
+
+1449840234 c:\users\arnab\desktop\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449833268 source:c:\users\arnab\desktop\pointofsale\unsortedtype.cpp
+	"UnsortedType.h"
+
+1449833268 c:\users\arnab\desktop\pointofsale\unsortedtype.h
+	"ItemType.h"
+
+1449833748 source:c:\users\arnab\desktop\pointofsale\salesman.cpp
+	"Salesman.h"
+
+1449833268 c:\users\arnab\desktop\pointofsale\salesman.h
+	<iostream>
+	<fstream>
+	"UnsortedType.h"
+	"ItemType.h"
+	"Transaction.h"
+	"Salesman.cpp"
+
+1449833268 c:\users\arnab\desktop\pointofsale\searchproduct.h
+	<iostream>
+	<fstream>
+	"Administrator.h"
+	"SearchProduct.cpp"
+
+1449769646 c:\users\arnab\desktop\pointofsale\searchproduct.cpp
+	<iostream>
+	<fstream>
+	"SearchProduct.h"
+
+1449833748 c:\users\arnab\desktop\pointofsale\salesman.cpp
+	"Salesman.h"
+
+1449769646 source:c:\users\arnab\desktop\pointofsale\searchproduct.cpp
+	<iostream>
+	<fstream>
+	"SearchProduct.h"
+
+1449833730 source:c:\users\prita\desktop\pointofsale\administrator.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	"Administrator.h"
+
+1449833268 c:\users\prita\desktop\pointofsale\administrator.h
+	<iostream>
+	<fstream>
+	"UnsortedType.h"
+	"Transaction.h"
+	"Administrator.cpp"
+
+1449833268 c:\users\prita\desktop\pointofsale\unsortedtype.h
+	"ItemType.h"
+
+1449833719 c:\users\prita\desktop\pointofsale\itemtype.h
+	<iostream>
+	<fstream>
+
+1449844988 c:\users\prita\desktop\pointofsale\transaction.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Transaction.cpp"
+
+1449845159 c:\users\prita\desktop\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449833730 c:\users\prita\desktop\pointofsale\administrator.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	"Administrator.h"
+
+1449833719 source:c:\users\prita\desktop\pointofsale\itemtype.cpp
+	"ItemType.h"
+	<iostream>
+	<fstream>
+
+1449844988 source:c:\users\prita\desktop\pointofsale\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	"ItemType.h"
+	"UnsortedType.h"
+	"Administrator.h"
+	"Salesman.h"
+
+1449833268 c:\users\prita\desktop\pointofsale\salesman.h
+	<iostream>
+	<fstream>
+	"UnsortedType.h"
+	"ItemType.h"
+	"Transaction.h"
+	"Salesman.cpp"
+
+1449833748 c:\users\prita\desktop\pointofsale\salesman.cpp
+	"Salesman.h"
+
+1449833748 source:c:\users\prita\desktop\pointofsale\salesman.cpp
+	"Salesman.h"
+
+1449769646 source:c:\users\prita\desktop\pointofsale\searchproduct.cpp
+	<iostream>
+	<fstream>
+	"SearchProduct.h"
+
+1449833268 c:\users\prita\desktop\pointofsale\searchproduct.h
+	<iostream>
+	<fstream>
+	"Administrator.h"
+	"SearchProduct.cpp"
+
+1449769646 c:\users\prita\desktop\pointofsale\searchproduct.cpp
+	<iostream>
+	<fstream>
+	"SearchProduct.h"
+
+1449840234 source:c:\users\prita\desktop\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449833268 source:c:\users\prita\desktop\pointofsale\unsortedtype.cpp
+	"UnsortedType.h"
+
+1449833730 source:d:\pointofsale\pointofsale\administrator.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	"Administrator.h"
+
+1449833268 d:\pointofsale\pointofsale\administrator.h
+	<iostream>
+	<fstream>
+	"UnsortedType.h"
+	"Transaction.h"
+	"Administrator.cpp"
+
+1449833268 d:\pointofsale\pointofsale\unsortedtype.h
+	"ItemType.h"
+
+1449833719 d:\pointofsale\pointofsale\itemtype.h
+	<iostream>
+	<fstream>
+
+1449844988 d:\pointofsale\pointofsale\transaction.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Transaction.cpp"
+
+1449845159 d:\pointofsale\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449833730 d:\pointofsale\pointofsale\administrator.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	"Administrator.h"
+
+1449833719 source:d:\pointofsale\pointofsale\itemtype.cpp
+	"ItemType.h"
+	<iostream>
+	<fstream>
+
+1449846294 source:d:\pointofsale\pointofsale\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	"ItemType.h"
+	"UnsortedType.h"
+	"Administrator.h"
+	"Salesman.h"
+
+1449833268 d:\pointofsale\pointofsale\salesman.h
+	<iostream>
+	<fstream>
+	"UnsortedType.h"
+	"ItemType.h"
+	"Transaction.h"
+	"Salesman.cpp"
+
+1449846286 d:\pointofsale\pointofsale\salesman.cpp
+	"Salesman.h"
+
+1449846286 source:d:\pointofsale\pointofsale\salesman.cpp
+	"Salesman.h"
+
+1449769646 source:d:\pointofsale\pointofsale\searchproduct.cpp
+	<iostream>
+	<fstream>
+	"SearchProduct.h"
+
+1449833268 d:\pointofsale\pointofsale\searchproduct.h
+	<iostream>
+	<fstream>
+	"Administrator.h"
+	"SearchProduct.cpp"
+
+1449769646 d:\pointofsale\pointofsale\searchproduct.cpp
+	<iostream>
+	<fstream>
+	"SearchProduct.h"
+
+1449845159 source:d:\pointofsale\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449833268 source:d:\pointofsale\pointofsale\unsortedtype.cpp
+	"UnsortedType.h"
+
+1449833730 source:c:\users\arnab\desktop\pointofsale\pointofsale\administrator.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	"Administrator.h"
+
+1449833268 c:\users\arnab\desktop\pointofsale\pointofsale\administrator.h
+	<iostream>
+	<fstream>
+	"UnsortedType.h"
+	"Transaction.h"
+	"Administrator.cpp"
+
+1449833268 c:\users\arnab\desktop\pointofsale\pointofsale\unsortedtype.h
+	"ItemType.h"
+
+1449833719 c:\users\arnab\desktop\pointofsale\pointofsale\itemtype.h
+	<iostream>
+	<fstream>
+
+1449844988 c:\users\arnab\desktop\pointofsale\pointofsale\transaction.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"Transaction.cpp"
+
+1449845159 c:\users\arnab\desktop\pointofsale\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449833730 c:\users\arnab\desktop\pointofsale\pointofsale\administrator.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	"Administrator.h"
+
+1449833719 source:c:\users\arnab\desktop\pointofsale\pointofsale\itemtype.cpp
+	"ItemType.h"
+	<iostream>
+	<fstream>
+
+1449846294 source:c:\users\arnab\desktop\pointofsale\pointofsale\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	"ItemType.h"
+	"UnsortedType.h"
+	"Administrator.h"
+	"Salesman.h"
+
+1449833268 c:\users\arnab\desktop\pointofsale\pointofsale\salesman.h
+	<iostream>
+	<fstream>
+	"UnsortedType.h"
+	"ItemType.h"
+	"Transaction.h"
+	"Salesman.cpp"
+
+1449891339 c:\users\arnab\desktop\pointofsale\pointofsale\salesman.cpp
+	"Salesman.h"
+
+1449891339 source:c:\users\arnab\desktop\pointofsale\pointofsale\salesman.cpp
+	"Salesman.h"
+
+1449769646 source:c:\users\arnab\desktop\pointofsale\pointofsale\searchproduct.cpp
+	<iostream>
+	<fstream>
+	"SearchProduct.h"
+
+1449833268 c:\users\arnab\desktop\pointofsale\pointofsale\searchproduct.h
+	<iostream>
+	<fstream>
+	"Administrator.h"
+	"SearchProduct.cpp"
+
+1449769646 c:\users\arnab\desktop\pointofsale\pointofsale\searchproduct.cpp
+	<iostream>
+	<fstream>
+	"SearchProduct.h"
+
+1449845159 source:c:\users\arnab\desktop\pointofsale\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449833268 source:c:\users\arnab\desktop\pointofsale\pointofsale\unsortedtype.cpp
+	"UnsortedType.h"
+

@@ -1,0 +1,8 @@
+SP ## SaleNo. 1
+SP12030 PLAYSTATION_4 32000 3 96000
+Total Price: 96000
+Vat: 5760
+Discount: 9600
+Final Amount: 92160
+
+
